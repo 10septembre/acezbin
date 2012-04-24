@@ -1,0 +1,1 @@
+$ php bin/php/acezbin.php --src-node-id=#SOURCE_NODE_ID# --dst-node-id=#DESTINATION_NODE_ID#

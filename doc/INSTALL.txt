@@ -1,0 +1,15 @@
+1.
+Unzip the archive or get the extension with git (More info: https://github.com/acidre/acezbin): 
+
+git clone git://github.com/acidre/acezbin.git
+
+2.
+Activate the extension by adding to the general site.ini file (settings/override/site.ini.append.php) the following line under the [ExtensionSettings] block:
+
+ActiveExtensions[]=acezbin
+
+3.
+Clear the INI cache.
+
+4.
+That's all, the scripts are ready to be executed!
